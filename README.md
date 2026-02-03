@@ -38,7 +38,7 @@ Pemrograman Front End.
 ### Langkah Instalasi
 1. Clone repository:
    ```bash
-   git clone https://github.com/username/nama-repository.git
+   git clone https://github.com/username/uas-spa-katalog-buku.git
 2. cd nama-repository
 3. npm install
 4. npm start
