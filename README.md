@@ -39,7 +39,7 @@ Pemrograman Front End.
 1. Clone repository:
    ```bash
    git clone https://github.com/username/uas-spa-katalog-buku.git
-2. cd nama-repository
+2. cd katalog-buku
 3. npm install
 4. npm start
 5. Akses melalui browser http://localhost:3000
